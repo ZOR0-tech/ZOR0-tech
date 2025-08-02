@@ -11,6 +11,9 @@
 - Exploring Python, SQL, Linux, and data visualization
 - Practicing real-world datasets and challenges
 
+ Project](https://img.shields.io/badge/Project-Coffee_Analysis-brown?logo=coffee)
+
+
 ## 🤝 Let’s Connect!
 [LinkedIn](https://www.linkedin.com/in/sooraj-krishna-629ab5226) • [Email](mailto:soorajkrishna110@gmail.com)
 
