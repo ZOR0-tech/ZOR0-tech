@@ -11,7 +11,10 @@
 - Exploring Python, SQL, Linux, and data visualization
 - Practicing real-world datasets and challenges
 
- Project](https://img.shields.io/badge/Project-Coffee_Analysis-brown?logo=coffee)
+   ## Projects
+
+  - ☕️ **Coffee Ratings Analysis:** Exploring coffee ratings by country!
+  
 
 
 ## 🤝 Let’s Connect!
