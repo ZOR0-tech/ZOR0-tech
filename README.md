@@ -1,6 +1,6 @@
 # Hi, I'm Suraj Krishna ! 👋![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Cybersecurity](https://img.shields.io/badge/Cybersecurity-2E3440?style=for-the-badge&logo=hackthebox&logoColor=green)![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)![Data Science](https://img.shields.io/badge/Data_Science-FFA500?style=for-the-badge)
 
-🎓 BSc in Data Analytics, Cybersecurity & Data Analysis  
+🎓 BCA in Data Analytics, Cybersecurity & Data Analysis  
 🚀 Incoming MS Data Science student (2026)  
 💡 Passionate about data, coding, and learning new tech  
 🔐 Interested in cybersecurity, ethical hacking, and AI  
