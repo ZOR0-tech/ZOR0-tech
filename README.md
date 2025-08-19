@@ -13,7 +13,7 @@
 
    ## Projects
 
-  - ☕️ **Coffee Ratings Analysis:** Exploring coffee ratings by country!
+  - ☕️ **Coffee Ratings Analysis:** Exploring coffee ratings by country
   
 
 
