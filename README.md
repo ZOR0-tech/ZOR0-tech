@@ -6,7 +6,7 @@
 🔐 Interested in cybersecurity, ethical hacking, and AI  
 ✨ Currently leveling up my skills via coursera and other online  platforms
 
-## 🌱 Learning Journey
+## 🌱Learning Journey
 - IBM Data Science Certificate in progress
 - Exploring Python, SQL, Linux, and data visualization
 - Practicing real-world datasets and challenges
