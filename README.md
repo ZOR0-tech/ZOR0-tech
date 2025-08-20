@@ -4,7 +4,7 @@
 🚀 Incoming MS Data Science student (2026)  
 💡 Passionate about data, coding, and learning new tech  
 🔐 Interested in cybersecurity, ethical hacking, and AI  
-✨ Currently leveling up my skills via coursera and other online platforms
+✨ Currently leveling up my skills via coursera and other online  platforms
 
 ## 🌱 Learning Journey
 - IBM Data Science Certificate in progress
