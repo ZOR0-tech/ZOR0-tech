@@ -3,7 +3,7 @@
 🎓 BCA in Data Analytics, Cybersecurity & Data Analysis  
 🚀 Incoming MS Data Science student (2026)  
 💡 Passionate about data, coding, and learning new tech  
-🔐 Interested in cybersecurity, ethical hacking, and AI  
+🔐 Interested in cybersecurity, ethical hacking, and AI .
 ✨ Currently leveling up my skills via coursera and other online  platforms .
 
 ## 🌱Learning Journey
