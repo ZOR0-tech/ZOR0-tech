@@ -20,4 +20,4 @@
 ## 🤝 Let’s Connect!
 [LinkedIn](https://www.linkedin.com/in/sooraj-krishna-629ab5226) • [Email](mailto:soorajkrishna110@gmail.com)
 
-> “Excited to build, explore, and grow in the world of data science! ”
+> “Excited to build, explore, and grow in the world of data science! ”..
